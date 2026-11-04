@@ -1,2 +1,2 @@
-# Mundo-de-frase
+# Mundo-de-frases
 Frases
